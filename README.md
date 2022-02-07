@@ -1,1 +1,1 @@
-# t-season-end-48hour-notice
+# t-season-end-2week-notice
